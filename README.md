@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**kra268/kra268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm an enthusiastic computational chemist working at Idaho National Laboratory. Here you'll find a variety of projects that showcase my work and contributions in the field of computational chemistry. Let's connect, collaborate, and innovate together!\
+I am not very active on this page as you can see but you can find more of my work on INL's GitHub page.
 
-Here are some ideas to get you started:
+## Where to find my work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this for some creative projects and my past projects while I was a graduate student. To find more recent work I do, check out my INL GitHub:
+- **INL GitHub:** [INL GitHub](https://github.inl.gov/keerthanraghavendra-rao)
+
+## YouTube
+
+My YouTube channel is called ChemCoder where I help others transition into the field of AI and ML.
+
+- **YouTube:** [ChemCoder](https://www.youtube.com/@ChemCoder404)
