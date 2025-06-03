@@ -6,7 +6,7 @@ I am not very active on this page as you can see but you can find more of my wor
 ## Where to find my work
 
 I use this for some creative projects and my past projects while I was a graduate student. To find more recent work I do, check out my INL GitHub:
-- **INL GitHub:** [INL GitHub](https://github.inl.gov/keerthanraghavendra-rao)
+- **INL GitHub:** [keerthanraghavendra-rao](https://github.inl.gov/keerthanraghavendra-rao)
 
 ## YouTube
 
