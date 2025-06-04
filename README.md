@@ -13,3 +13,10 @@ I use this for some creative projects and my past projects while I was a graduat
 My YouTube channel is called ChemCoder where I help others transition into the field of AI and ML.
 
 - **YouTube:** [ChemCoder](https://www.youtube.com/@ChemCoder404)
+
+## Connect with me
+- **Website:** [My Website](https://kra268.github.io/KeerthanRaoWeb/)
+- **Schedule a 1-on-1 with me:** [Virtual meeting](buymeacoffee.com/chemcoder/e/387694)
+- **LinkedIn:** [Keerthan Rao](https://www.linkedin.com/in/keerthan-kra268/)
+
+
