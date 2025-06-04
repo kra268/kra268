@@ -16,7 +16,7 @@ My YouTube channel is called ChemCoder where I help others transition into the f
 
 ## Connect with me
 - **Website:** [My Website](https://kra268.github.io/KeerthanRaoWeb/)
-- **Schedule a 1-on-1 with me:** [Virtual meeting](buymeacoffee.com/chemcoder/e/387694)
+- **Schedule a 1-on-1 with me:** [Virtual meeting](https://buymeacoffee.com/ChemCoder/e/387694)
 - **LinkedIn:** [Keerthan Rao](https://www.linkedin.com/in/keerthan-kra268/)
 
 
